@@ -1,0 +1,1 @@
+go get ./app/ && swag init --dir ./app/ && go run ./app/
